@@ -1,0 +1,40 @@
+C:\Users\makievsky\source\repos\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.exe.config
+C:\Users\makievsky\source\repos\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.exe
+C:\Users\makievsky\source\repos\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.pdb
+C:\Users\makievsky\source\repos\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csprojAssemblyReference.cache
+C:\Users\makievsky\source\repos\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.Form1.resources
+C:\Users\makievsky\source\repos\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.Properties.Resources.resources
+C:\Users\makievsky\source\repos\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csproj.GenerateResource.cache
+C:\Users\makievsky\source\repos\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csproj.CoreCompileInputs.cache
+C:\Users\makievsky\source\repos\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.exe
+C:\Users\makievsky\source\repos\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.pdb
+C:\Users\Asya\Desktop\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.exe.config
+C:\Users\Asya\Desktop\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.exe
+C:\Users\Asya\Desktop\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.pdb
+C:\Users\Asya\Desktop\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csprojAssemblyReference.cache
+C:\Users\Asya\Desktop\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.Form1.resources
+C:\Users\Asya\Desktop\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.Properties.Resources.resources
+C:\Users\Asya\Desktop\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csproj.GenerateResource.cache
+C:\Users\Asya\Desktop\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csproj.CoreCompileInputs.cache
+C:\Users\Asya\Desktop\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.exe
+C:\Users\Asya\Desktop\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.pdb
+C:\Users\Asya\YandexDisk\колледж\1 пол 1 курс\ОАиП Макиеский\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.exe.config
+C:\Users\Asya\YandexDisk\колледж\1 пол 1 курс\ОАиП Макиеский\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.exe
+C:\Users\Asya\YandexDisk\колледж\1 пол 1 курс\ОАиП Макиеский\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.pdb
+C:\Users\Asya\YandexDisk\колледж\1 пол 1 курс\ОАиП Макиеский\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csprojAssemblyReference.cache
+C:\Users\Asya\YandexDisk\колледж\1 пол 1 курс\ОАиП Макиеский\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.Form1.resources
+C:\Users\Asya\YandexDisk\колледж\1 пол 1 курс\ОАиП Макиеский\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.Properties.Resources.resources
+C:\Users\Asya\YandexDisk\колледж\1 пол 1 курс\ОАиП Макиеский\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csproj.GenerateResource.cache
+C:\Users\Asya\YandexDisk\колледж\1 пол 1 курс\ОАиП Макиеский\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csproj.CoreCompileInputs.cache
+C:\Users\Asya\YandexDisk\колледж\1 пол 1 курс\ОАиП Макиеский\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.exe
+C:\Users\Asya\YandexDisk\колледж\1 пол 1 курс\ОАиП Макиеский\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.pdb
+C:\Users\Asya\Desktop\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.exe.config
+C:\Users\Asya\Desktop\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.exe
+C:\Users\Asya\Desktop\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\bin\Debug\FakeCommanderApp.pdb
+C:\Users\Asya\Desktop\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csproj.AssemblyReference.cache
+C:\Users\Asya\Desktop\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.Form1.resources
+C:\Users\Asya\Desktop\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.Properties.Resources.resources
+C:\Users\Asya\Desktop\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csproj.GenerateResource.cache
+C:\Users\Asya\Desktop\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.csproj.CoreCompileInputs.cache
+C:\Users\Asya\Desktop\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.exe
+C:\Users\Asya\Desktop\11 Практическая\FakeCommanderApp1911-1\FakeCommanderApp\FakeCommanderApp\obj\Debug\FakeCommanderApp.pdb
